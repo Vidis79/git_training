@@ -1,1 +1,3 @@
 Hi there! I am Bob and I like to play with Git.
+
+This is a second line to test out the divergent branch!
