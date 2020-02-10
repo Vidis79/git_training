@@ -3,3 +3,6 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the third change to test the divergence.
 
 This is the forth update to Alice.txt to test the rebase concept.
+
+This is edited from the Github site!
+
