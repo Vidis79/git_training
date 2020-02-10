@@ -1,3 +1,4 @@
 Hi there! I am Bob and I like to play with Git! This is an update to the master branch!
+I selected the master branch to be the winner for this conflict.
 
 This is a second line to test out the divergent branch!
