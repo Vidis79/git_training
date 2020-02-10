@@ -6,4 +6,6 @@ This is the forth update to Alice.txt to test the rebase concept.
 
 This is edited from the Github site!
 Update nr two from the Github site!
-Update nr three from the Github site!
+
+This will be a conflic with the Github changes!
+The local change won since this was a better solution.
